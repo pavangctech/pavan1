@@ -52,7 +52,7 @@
   </dependencies>
 
   <build>
-    <finalName>Bristleback web application</finalName>
+    <finalName>kill</finalName>
     <pluginManagement>
       <plugins>
         <plugin>
